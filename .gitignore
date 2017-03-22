@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+# Gclient managed repos
+src/bx/
+src/bgfx/
