@@ -31,3 +31,6 @@
 # Gclient managed repos
 src/bx/
 src/bgfx/
+
+# Gclient entries
+.gclient_entries
